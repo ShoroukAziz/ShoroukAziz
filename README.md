@@ -2,6 +2,10 @@
 
 <br/>
 
+<img align="right" width="350"  align="center" src="https://github-profile-trophy.vercel.app/?username=shoroukaziz&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="shoroukaziz" />
+
+<p align="left">
+
 - 🔭 I’m currently working on [Codi](https://github.com/PavelKotlov/codi-client)
 
 - 🌱 I’m currently learning **React**
@@ -17,9 +21,6 @@
 - 👧🏽 Pronouns: **She/Her**
 
 - ⚡ Fun fact **I visited Europe, Asia, and Africa within an 8-hour timeframe.**
-
-<p align="center">
-    <img  width="600"  align="center" src="https://github-profile-trophy.vercel.app/?username=shoroukaziz&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest" alt="shoroukaziz" />
 </p>
 
 <p align="center">
@@ -45,4 +46,3 @@
 <a href="https://www.youtube.com/c/shorouksaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shorouksaziz" height="30" width="40" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shoroukaziz&label=Profile%20views&color=0e75b6&style=flat" alt="shoroukaziz" /> </p>
-<hr/>
