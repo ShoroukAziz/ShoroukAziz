@@ -21,7 +21,7 @@
 - 👧🏽 Pronouns: **She/Her**
 
 - ⚡ Fun fact **I visited Europe, Asia, and Africa within an 8-hour timeframe.**
-<hr/>
+
 
 
 <p align="center">
@@ -37,13 +37,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoroukaziz&show_icons=true&locale=en&layout=compact" alt="shoroukaziz" />  
 </p>                             
 
-  
 
 <hr/>
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/shorouk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30"  alt="shorouk" /></a></p><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoroukaziz&label=Profile%20views&color=0e75b6&style=flat" alt="shoroukaziz" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -51,3 +46,5 @@
 <a href="https://linkedin.com/in/shorouk-abdelaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorouk-abdelaziz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shorouksaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shorouksaziz" height="30" width="40" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shoroukaziz&label=Profile%20views&color=0e75b6&style=flat" alt="shoroukaziz" /> </p>
+<hr/>
