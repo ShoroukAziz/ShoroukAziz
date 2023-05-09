@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorouk 👩🏽‍💻</h1>
 <h3 align="center">Calgary based Software Developer, Notion Creator& full-time tech nerd who's passionate about creating innovative, high-quality products that solve problems and provide real value.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="60%" src="https://github-profile-trophy.vercel.app/?username=shoroukaziz&theme=apprentice" alt="shoroukaziz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="60%" src="https://github-profile-trophy.vercel.app/?username=shoroukaziz&theme=nord" alt="shoroukaziz" /></a> </p>
 
 - 🔭 I’m currently working on [Codi](https://github.com/PavelKotlov/codi-client)
 
