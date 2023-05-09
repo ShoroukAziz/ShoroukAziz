@@ -42,9 +42,3 @@
 <p><a href="https://ko-fi.com/shorouk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30"  alt="shorouk" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoroukaziz&label=Profile%20views&color=0e75b6&style=flat" alt="shoroukaziz" /> </p>
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
