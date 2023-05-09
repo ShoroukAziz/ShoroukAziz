@@ -30,9 +30,9 @@
 
 </p>
 
-|                                                                                                                                                    |                                                                                                                                                      |
+|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoroukaziz&show_icons=true&locale=en&layout=compact" alt="shoroukaziz" />|    <img height="200"  width="400"  src="https://github-readme-stats.vercel.app/api?username=shoroukaziz&show_icons=true&locale=en" alt="shoroukaziz" />                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoroukaziz&show_icons=true&locale=en&layout=compact" alt="shoroukaziz" /> | <img height="200"  width="400"  src="https://github-readme-stats.vercel.app/api?username=shoroukaziz&show_icons=true&locale=en" alt="shoroukaziz" /> |
+
 
 <hr/>
 <h3 align="left">Support:</h3>
