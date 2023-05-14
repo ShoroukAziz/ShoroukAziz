@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on [Codi](https://github.com/PavelKotlov/codi-client)
+- 🔭 I’m currently working on [Notion-Potion](https://github.com/ShoroukAziz/notion-potion) & [Codi](https://github.com/PavelKotlov/codi-client)
 
 - 🌱 I’m currently learning **React**
 
